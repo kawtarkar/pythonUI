@@ -77,8 +77,8 @@ Provides a form to enter medicine details.
 ## Installation Requirements
 
 Before running the application, install the required dependencies:
--PyQT : https://pypi.org/project/PyQt5/
--SQLite : https://www.sqlite.org/download.html
+- PyQT : https://pypi.org/project/PyQt5/
+- SQLite : https://www.sqlite.org/download.html
 
 ## Conclusion
 This project provides a functional medicine management system using PyQT and SQLite. It demonstrates CRUD operations within a simple yet effective GUI.
