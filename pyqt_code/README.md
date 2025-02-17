@@ -1,4 +1,4 @@
-# Medicine Record Management System
+# Medicine Record Management System with pyQT
 
 ## Overview
 
