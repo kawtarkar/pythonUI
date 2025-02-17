@@ -74,13 +74,6 @@ Provides a form to enter medicine details.
 
 - Captures user input and calls `add_medicament()` to insert data into the database.
 
-## Running the Application
-
-To run the application, execute the following command:
-
-```bash
-python main.py
-
 ## Installation Requirements
 
 Before running the application, install the required dependencies:
